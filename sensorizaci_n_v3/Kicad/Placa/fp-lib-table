@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Wemos)(type KiCad)(uri C:/Users/ddelgado/Desktop/sensorizaci_n_v3/exploracion-de-sensores/sensorizaci_n_v3/Kicad/Placa/wemos-d1-mini-kicad-master/modules/wemos-d1-mini.pretty)(options "")(descr ""))
+  (lib (name Pololu)(type KiCad)(uri C:/Users/ddelgado/Desktop/sensorizaci_n_v3/exploracion-de-sensores/sensorizaci_n_v3/Kicad/Placa/Pololu/Pololu.pretty)(options "")(descr ""))
+  (lib (name Componentes)(type KiCad)(uri ${KIPRJMOD}/Componentes/Componentes.pretty)(options "")(descr ""))
+)

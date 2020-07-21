@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Pololu)(type Legacy)(uri C:/Users/ddelgado/Desktop/sensorizaci_n_v3/exploracion-de-sensores/sensorizaci_n_v3/Kicad/Placa/Pololu/Pololu.lib)(options "")(descr ""))
+  (lib (name Componentes)(type Legacy)(uri ${KIPRJMOD}/Componentes/Componentes.lib)(options "")(descr ""))
+  (lib (name Wemos)(type Legacy)(uri C:/Users/ddelgado/Desktop/sensorizaci_n_v3/exploracion-de-sensores/sensorizaci_n_v3/Kicad/Placa/wemos-d1-mini-kicad-master/libraries/wemos_mini.lib)(options "")(descr ""))
+  (lib (name Placa-rescue)(type Legacy)(uri ${KIPRJMOD}/Placa-rescue.lib)(options "")(descr ""))
+)
